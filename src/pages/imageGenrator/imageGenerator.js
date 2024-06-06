@@ -1,7 +1,7 @@
 import React, { useState, useContext } from 'react';
 import PointsContext from '../context/pointContext';
-import Navbar from '../common/navbar/navbar';
 import './imageGenerator.css';
+import Navbar from '../common/navbar/navbar';
 
 const ImageGenerator = (props) => {
     const cValue = useContext(PointsContext);
@@ -49,7 +49,7 @@ const ImageGenerator = (props) => {
 
     return (
         <div>
-            <Navbar page="imageGenerator" />
+            <Navbar page="imageGenerator"/>
             <div className="image-generator-main-container">
                 <div className='image-search'>
                     <img src={imageSrc} alt="Generated" />
