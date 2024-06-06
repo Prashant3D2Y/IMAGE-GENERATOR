@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react';
 import PointsContext from '../context/pointContext';
-import './imageGenerator.css';
+import './ImageGenerator.css';
 import Navbar from '../common/navbar/navbar';
 
 const ImageGenerator = (props) => {
