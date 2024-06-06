@@ -1,0 +1,65 @@
+/* General reset for padding and margin */
+body, h1, h2, h3, p, input, button {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background and font styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    color: #fff;
+}
+
+/* Container for the login form */
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    text-align: center;
+}
+
+/* Heading style */
+.login-container h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+/* Input field styles */
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.2);
+    color: #333;
+}
+
+.login-container input::placeholder {
+    color: #999;
+}
+
+/* Button styles */
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.login-container button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
