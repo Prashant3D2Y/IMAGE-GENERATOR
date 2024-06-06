@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import ReactDOM from "react-dom/client";
-import Navbar from "./src/pages/common/navbar/navbar.js";
+// import Navbar from "./src/pages/common/navbar/navbar.js";
 import HomePage from "./src/pages/HomePage/homepage.js";
 import ImageGenerator from './src/pages/imageGenrator/imageGenerator.js';
 import HistoryPage from "./src/pages/HistoryPage/historypage.js";
