@@ -1,7 +1,7 @@
 import PointsContext from "../context/pointContext";
-import Navbar from "../common/Navbar/navbar";
 import {useState, useContext} from "react";
 import "./login.css";
+import Navbar from "../common/navbar/navbar";
 
 const Login = () => {
     const {login} = useContext(PointsContext);
@@ -29,7 +29,7 @@ const Login = () => {
 
     return (
         <div>
-            <Navbar page='login'/>
+             <Navbar page='login'/>
             <div className="login-container">
                 <h2>Login</h2>
                 <input 

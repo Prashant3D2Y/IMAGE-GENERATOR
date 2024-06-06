@@ -1,6 +1,7 @@
-import Navbar from "../common/Navbar/navbar";
+
 import { useState } from "react";
 import "./signup.css";
+import Navbar from "../common/navbar/navbar";
 
 const Signup = () => {
     const [email, setEmail] = useState("");
