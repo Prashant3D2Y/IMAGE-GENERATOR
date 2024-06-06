@@ -1,7 +1,7 @@
-import Navbar from "../common/Navbar/navbar";
 import {useState, useEffect} from "react";
 import "./historyPage.css";
 import HistoryCard from "./historyCard";
+import Navbar from "../common/navbar/navbar";
 
 const HistoryPage = (props) => {
     const [data, setData] = useState([]);
