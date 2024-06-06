@@ -34567,80 +34567,65 @@ const Navbar = (props)=>{
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
                         to: "/",
                         style: customColor("home"),
+                        className: page === "home" ? "active" : "",
                         children: "Home"
+                    }, void 0, false, {
+                        fileName: "src/pages/common/Navbar/navbar.js",
+                        lineNumber: 17,
+                        columnNumber: 17
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
+                        to: "/image-generator",
+                        style: customColor("imageGenerator"),
+                        className: page === "imageGenerator" ? "active" : "",
+                        children: "Image Generator"
                     }, void 0, false, {
                         fileName: "src/pages/common/Navbar/navbar.js",
                         lineNumber: 18,
                         columnNumber: 17
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                        to: "/image-generator",
-                        style: customColor("imageGenerator"),
-                        children: "Image Generator"
+                        to: "/history",
+                        style: customColor("history"),
+                        className: page === "history" ? "active" : "",
+                        children: "History"
                     }, void 0, false, {
                         fileName: "src/pages/common/Navbar/navbar.js",
                         lineNumber: 19,
                         columnNumber: 17
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                        to: "/history",
-                        style: customColor("history"),
-                        children: "History"
+                        to: "/signup",
+                        style: customColor("signup"),
+                        className: page === "signup" ? "active" : "",
+                        children: "Signup"
                     }, void 0, false, {
                         fileName: "src/pages/common/Navbar/navbar.js",
                         lineNumber: 20,
                         columnNumber: 17
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                        to: "/contact",
-                        children: "Contact Us"
-                    }, void 0, false, {
-                        fileName: "src/pages/common/Navbar/navbar.js",
-                        lineNumber: 21,
-                        columnNumber: 17
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                        to: "/help",
-                        children: "Help"
-                    }, void 0, false, {
-                        fileName: "src/pages/common/Navbar/navbar.js",
-                        lineNumber: 22,
-                        columnNumber: 17
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
-                        to: "/signup",
-                        style: customColor("signup"),
-                        children: "Signup"
-                    }, void 0, false, {
-                        fileName: "src/pages/common/Navbar/navbar.js",
-                        lineNumber: 23,
-                        columnNumber: 17
-                    }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Link), {
                         to: "/login",
                         style: customColor("login"),
+                        className: page === "login" ? "active" : "",
                         children: "Login"
                     }, void 0, false, {
                         fileName: "src/pages/common/Navbar/navbar.js",
-                        lineNumber: 24,
+                        lineNumber: 21,
                         columnNumber: 17
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/pages/common/Navbar/navbar.js",
-                lineNumber: 17,
+                lineNumber: 16,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "right",
-                style: {
-                    padding: "4px",
-                    color: "brown"
-                },
                 children: contextValues.userPoints
             }, void 0, false, {
                 fileName: "src/pages/common/Navbar/navbar.js",
-                lineNumber: 26,
+                lineNumber: 23,
                 columnNumber: 13
             }, undefined),
             contextValues.isLoggedIn ? /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -34648,20 +34633,20 @@ const Navbar = (props)=>{
                 children: "Logout"
             }, void 0, false, {
                 fileName: "src/pages/common/Navbar/navbar.js",
-                lineNumber: 30,
+                lineNumber: 27,
                 columnNumber: 17
             }, undefined) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
                 onClick: contextValues.login,
                 children: "Login"
             }, void 0, false, {
                 fileName: "src/pages/common/Navbar/navbar.js",
-                lineNumber: 31,
-                columnNumber: 18
+                lineNumber: 28,
+                columnNumber: 17
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/pages/common/Navbar/navbar.js",
-        lineNumber: 16,
+        lineNumber: 15,
         columnNumber: 9
     }, undefined);
 };
