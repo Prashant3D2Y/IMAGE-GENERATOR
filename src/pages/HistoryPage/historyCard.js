@@ -2,13 +2,13 @@ import {Link} from 'react-router-dom';
 
 const HistoryCard = (props) => {
 
-    const product = props.item;
+    const data = props.item;
 
     return(
         <div className='history-card'>
-            <h4>{product.title}</h4>
-            <p>{product.description}</p>
-            <Link to={`/history/${product.id}`}>More</Link>
+            <h4>{data.title}</h4>
+            <p>{data.imageUrl}</p>
+            <Link to={`/history/${data.id}`}>More</Link>
         </div>
     )
 }

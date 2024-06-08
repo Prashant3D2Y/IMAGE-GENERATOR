@@ -23,7 +23,7 @@ const ImageGenerator = (props) => {
                 return;
             }
 
-            const res = await fetch(`${process.env.BACKEND_URL}/api/v1/images`, {
+            const res = await fetch(`${process.env.BACKEND_URL}/api/v1/images/image-genrate`, {
                 method: 'POST',
                 body: JSON.stringify({ searchText }),
                 headers: {
@@ -37,6 +37,7 @@ const ImageGenerator = (props) => {
             }
 
             const data = await res.json();
+            console.log(data.data.imageUrl);
             if (data?.status === 'success') {
                 setImgSrc(data.data.imageUrl);
             } else {

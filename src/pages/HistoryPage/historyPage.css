@@ -1,29 +1,72 @@
-.history-main-container{
-    color: white;
+/* historyPage.css */
 
-    padding: 24px 48px;
+.history-main-container {
     display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    gap: 24px;
-
     flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    background-color: #f4f4f9;
 }
 
-.history-card{
-    max-width: 300px;
-    border: 1px solid grey;
-    padding: 16px;
-
-    p{
-        color: rgb(224, 219, 219);
-    }
-}
-
-.search-box-input{
+.search-box-input {
     display: block;
-    width: 200px;
-    margin: 16px auto;
-    padding: 4px 8px;
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
 
+.history-card {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.history-card:hover {
+    transform: translateY(-5px);
+}
+
+.history-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.history-card-content {
+    padding: 15px;
+    text-align: center;
+}
+
+.history-card h4 {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+}
+
+.history-card p {
+    color: #777;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+.history-card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.history-card a:hover {
+    background-color: #0056b3;
 }
