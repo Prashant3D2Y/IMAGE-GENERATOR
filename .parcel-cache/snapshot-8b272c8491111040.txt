@@ -6088,8 +6088,8 @@
 71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\.bin\svgo133592855747348144 0
 75C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\.bin\svgo.ps1133592855747348144 0
 72C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.3a01df49.css133622947879929882 0
+71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js133622947881401496 0
+75C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js.map133622947881635448 0
 72C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.c41b5a0e.css133622947879939840 0
 76C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.c41b5a0e.css.map133622947880032942 0
 64C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.html133622947881392826 0
-71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js133622947881401496 0
-75C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js.map133622947881635448 0
