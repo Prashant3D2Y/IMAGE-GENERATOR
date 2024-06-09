@@ -27368,14 +27368,6 @@ const HomePage = (props)=>{
                             fileName: "src/pages/HomePage/homepage.js",
                             lineNumber: 12,
                             columnNumber: 21
-                        }, undefined),
-                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                            onClick: ()=>window.location.href = "/image-Generator",
-                            children: "Get Started"
-                        }, void 0, false, {
-                            fileName: "src/pages/HomePage/homepage.js",
-                            lineNumber: 16,
-                            columnNumber: 21
                         }, undefined)
                     ]
                 }, void 0, true, {

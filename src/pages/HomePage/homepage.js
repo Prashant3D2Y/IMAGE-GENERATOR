@@ -13,7 +13,7 @@ const HomePage = (props) => {
                         Create stunning images instantly with our powerful and easy-to-use image generator. 
                         Simply enter a description, and watch the magic happen. Ready to unleash your creativity?
                     </p>
-                    <button onClick={() => window.location.href='/image-Generator'}>Get Started</button>
+                    {/* <button onClick={() => window.location.href='/image-Generator'}>Get Started</button> */}
                 </div>
             </div>
         </div>

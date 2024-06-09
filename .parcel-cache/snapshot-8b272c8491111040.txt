@@ -36,7 +36,7 @@
 114C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\css-select\node_modules\domutils\lib\esm\querying.js133592855444012417 0
 88C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\css-select\lib\sort.js.map133592855467357739 0
 103C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\css-tree\lib\syntax\node\ClassSelector.js133592855483981901 0
-53C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist133622947881655375 1
+53C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist133623877839888921 1
 90C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\electron-to-chromium\LICENSE133592855419905599 0
 74C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\htmlnano\lib133621712636994321 1
 93C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\source-map\lib\binary-search.js133592855427077955 0
@@ -207,7 +207,7 @@
 98C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\@parcel\workers\src\web\WebWorker.js133592855463907041 0
 104C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\csso\node_modules\css-tree\cjs\syntax\node133621712619362085 1
 86C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\entities\lib\encode.d.ts133592855457404417 0
-79C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\src\pages\HomePage\homepage.js133621639484465676 0
+79C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\src\pages\HomePage\homepage.js133623877829837284 0
 120C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Declaration.cjs133592855461212323 0
 140C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\walk.js133592855482129497 0
 71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\commander133621712596013532 1
@@ -3083,7 +3083,7 @@
 141C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\OffsetToLocation.js133592855476987019 0
 105C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\csso\node_modules\css-tree\dist\version.cjs133592855483126662 0
 93C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\caniuse-lite\data\regions\SL.js133592855507077767 0
-76C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.3a01df49.css.map133622947880032942 0
+76C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.3a01df49.css.map133623877837252815 0
 88C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\@parcel\graph\lib\Graph.js133592855451009229 0
 107C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\csso\node_modules\css-tree\cjs\data-patch.cjs133592855458550700 0
 110C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\@babel\highlight\node_modules\has-flag\readme.md133592855419133453 0
@@ -6087,9 +6087,9 @@
 77C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\.bin\parcel.ps1133592855747348144 0
 71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\.bin\svgo133592855747348144 0
 75C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\node_modules\.bin\svgo.ps1133592855747348144 0
-72C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.3a01df49.css133622947879929882 0
-71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js133622947881401496 0
-75C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js.map133622947881635448 0
-72C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.c41b5a0e.css133622947879939840 0
-76C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.c41b5a0e.css.map133622947880032942 0
-64C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.html133622947881392826 0
+72C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.3a01df49.css133623877837112692 0
+72C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.c41b5a0e.css133623877837112692 0
+76C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.c41b5a0e.css.map133623877837252815 0
+71C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js133623877839718967 0
+64C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.html133623877839739071 0
+75C:\Users\Prashant\OneDrive\Desktop\KIET-Frontend\dist\index.5baa4167.js.map133623877839869170 0
