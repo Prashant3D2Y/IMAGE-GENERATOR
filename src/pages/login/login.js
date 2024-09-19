@@ -1,5 +1,5 @@
 import PointsContext from "../context/pointContext";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import {useState, useContext} from "react";
 import "./login.css";
 import Navbar from "../common/navbar/navbar";
@@ -8,7 +8,7 @@ const Login = () => {
     const {login} = useContext(PointsContext);
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
-    const Navigate = useNavigate();
+    // const Navigate = useNavigate();
     const handleClick = async() => {
         if(!email && !password){
             return;
@@ -25,7 +25,7 @@ const Login = () => {
         if(data.status === "success"){
             localStorage.setItem("authorization", data.data.token);
             login();
-            Navigate("/image-generator");
+            // Navigate("/image-generator");
         }
     }
 
